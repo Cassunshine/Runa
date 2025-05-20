@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "cassunshine.runa.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
